@@ -1,0 +1,578 @@
+Quantitative Methods
+LEARNING OUTCOMES
+Rates and Returns
+The candidate should be able to:□	interpret interest rates as required rates of return, discount rates, or opportunity 
+costs and explain an interest rate as the sum of a real risk-free rate and premiums that compensate investors for bearing distinct types of risk
+□	calculate and interpret different approaches to return measurement over time and describe their appropriate uses
+□	compare the money-weighted and time-weighted rates of return and evaluate the performance of portfolios based on these measures
+□	calculate and interpret annualized return measures and continuously compounded returns, and describe their appropriate uses
+□	calculate and interpret major return measures and describe their appropriate uses
+Time Value of Money in Finance
+The candidate should be able to:□	calculate and interpret the present value (PV) of fixed-income and equity 
+instruments based on expected future cash flows 
+□	calculate and interpret the implied return of fixed-income instruments and required return and implied growth of equity instruments given the present value (PV) and cash flows
+□	explain the cash flow additivity principle, its importance for the no-arbitrage condition, and its use in calculating implied forward interest rates, forward exchange rates, and option values2024 Level I Topic Outlines
+© CFA Institute. For candidate use only. Not for distribution. Q uantitative Methods 2
+Statistical Measures of Asset Returns
+The candidate should be able to:□	calculate, interpret, and evaluate measures of central tendency and location to 
+address an investment problem
+□	calculate, interpret, and evaluate measures of dispersion to address an investment problem
+□	interpret and evaluate measures of skewness and kurtosis to address an investment problem
+□	interpret correlation between two variables to address an investment problem
+Probability Trees and Conditional Expectations
+The candidate should be able to:□	calculate expected values, variances, and standard deviations and demonstrate 
+their application to investment problems
+□	formulate an investment problem as a probability tree and explain the use of conditional expectations in investment application
+□	calculate and interpret an updated probability in an investment setting using Bayes’ formula
+Portfolio Mathematics
+The candidate should be able to:□	calculate and interpret the expected value, variance, standard deviation, 
+covariances, and correlations of portfolio returns
+□	calculate and interpret the covariance and correlation of portfolio returns using a joint probability function for returns
+□	define shortfall risk, calculate the safety-first ratio, and identify an optimal portfolio using Roy’s safety-first criterion
+Simulation Methods
+The candidate should be able to:□	explain the relationship between normal and lognormal distributions and 
+why the lognormal distribution is used to model asset prices when using continuously compounded asset returns
+□	describe Monte Carlo simulation and explain how it can be used in investment applications
+□	describe the use of bootstrap resampling in conducting a simulation based on observed data in investment applications
+Estimation and Inference
+The candidate should be able to:□	compare and contrast simple random, stratified random, cluster, convenience, 
+and judgmental sampling and their implications for sampling error in an investment problem
+□	explain the central limit theorem and its importance for the distribution and standard error of the sample mean
+□	describe the use of resampling (bootstrap, jackknife) to estimate the sampling distribution of a statistic
+© CFA Institute. For candidate use only. Not for distribution.3  Quantitative Methods
+Hypothesis Testing
+The candidate should be able to:□	explain hypothesis testing and its components, including statistical significance, 
+Type I and Type II errors, and the power of a test.
+□	construct hypothesis tests and determine their statistical significance, the associated Type I and Type II errors, and power of the test given a significance level
+□	compare and contrast parametric and nonparametric tests, and describe situations where each is the more appropriate type of test
+Parametric and Non-Parametric Tests of Independence
+The candidate should be able to:□	explain parametric and nonparametric tests of the hypothesis that the 
+population correlation coefficient equals zero, and determine whether the hypothesis is rejected at a given level of significance 
+□	explain tests of independence based on contingency table data
+Simple Linear Regression
+The candidate should be able to:□	describe a simple linear regression model, how the least squares criterion is used 
+to estimate regression coefficients, and the interpretation of these coefficients
+□	explain the assumptions underlying the simple linear regression model, and describe how residuals and residual plots indicate if these assumptions may have been violated
+□	calculate and interpret measures of fit and formulate and evaluate tests of fit and of regression coefficients in a simple linear regression
+□	describe the use of analysis of variance (ANOVA) in regression analysis, interpret ANOVA results, and calculate and interpret the standard error of estimate in a simple linear regression
+□	calculate and interpret the predicted value for the dependent variable, and a prediction interval for it, given an estimated linear regression model and a value for the independent variable
+□	describe different functional forms of simple linear regressions
+Introduction to Big Data Techniques
+The candidate should be able to:□	describe aspects of “fintech” that are directly relevant for the gathering and 
+analyzing of financial data.
+□	describe Big Data, artificial intelligence, and machine learning
+□	describe applications of Big Data and Data Science to investment management
+© CFA Institute. For candidate use only. Not for distribution.Economics
+LEARNING OUTCOMES
+The Firm and Market Structures
+The candidate should be able to:□	determine and interpret breakeven and shutdown points of production, as well 
+as how economies and diseconomies of scale affect costs under perfect and imperfect competition 
+□	describe characteristics of perfect competition, monopolistic competition, oligopoly, and pure monopoly
+□	explain supply and demand relationships under monopolistic competition, including the optimal price and output for firms as well as pricing strategy
+□	explain supply and demand relationships under oligopoly, including the optimal price and output for firms as well as pricing strategy
+□	identify the type of market structure within which a firm operates and describe the use and limitations of concentration measures
+Understanding Business Cycles
+The candidate should be able to:□	describe the business cycle and its phases
+□	describe credit cycles
+□	describe how resource use, consumer and business activity, housing sector 
+activity, and external trade sector activity vary over the business cycle and describe their measurement using economic indicators
+© CFA Institute. For candidate use only. Not for distribution.5 Economics
+Fiscal Policy
+The candidate should be able to:□	compare monetary and fiscal policy
+□	describe roles and objectives of fiscal policy as well as arguments as to whether 
+the size of a national debt relative to GDP matters
+□	describe tools of fiscal policy, including their advantages and disadvantages
+□	explain the implementation of fiscal policy and difficulties of implementation as well as whether a fiscal policy is expansionary or contractionary
+Monetary Policy
+The candidate should be able to:□	describe the roles and objectives of central banks
+□	describe tools used to implement monetary policy tools and the monetary 
+transmission mechanism, and explain the relationships between monetary policy and economic growth, inflation, interest, and exchange rates
+□	describe qualities of effective central banks; contrast their use of inflation, interest rate, and exchange rate targeting in expansionary or contractionary monetary policy; and describe the limitations of monetary policy
+□	explain the interaction of monetary and fiscal policy
+Introduction to Geopolitics
+The candidate should be able to:□	describe geopolitics from a cooperation versus competition perspective
+□	describe geopolitics and its relationship with globalization
+□	describe functions and objectives of the international organizations that 
+facilitate trade, including the World Bank, the International Monetary Fund, and the World Trade Organization
+□	describe geopolitical risk
+□	describe tools of geopolitics and their impact on regions and economies
+□	describe the impact of geopolitical risk on investments
+International Trade
+The candidate should be able to:□	describe the benefits and costs of international trade
+□	compare types of trade restrictions, such as tariffs, quotas, and export subsidies, 
+and their economic implications
+□	explain motivations for and advantages of trading blocs, common markets, and economic unions
+Capital Flows and the FX Market
+The candidate should be able to:□	describe the foreign exchange market, including its functions and participants, 
+distinguish between nominal and real exchange rates, and calculate and interpret the percentage change in a currency relative to another currency
+□	describe exchange rate regimes and explain the effects of exchange rates on countries’ international trade and capital flows
+□	describe common objectives of capital restrictions imposed by governments
+© CFA Institute. For candidate use only. Not for distribution. Economics 6
+Exchange Rate Calculations
+The candidate should be able to:□	calculate and interpret currency cross-rates
+□	explain the arbitrage relationship between spot and forward exchange rates and 
+interest rates, calculate a forward rate using points or in percentage terms, and interpret a forward discount or premium
+© CFA Institute. For candidate use only. Not for distribution.Portfolio Management
+LEARNING OUTCOMES
+Portfolio Risk and Return: Part I
+The candidate should be able to:□	describe characteristics of the major asset classes that investors consider in 
+forming portfolios
+□	explain risk aversion and its implications for portfolio selection
+□	explain the selection of an optimal portfolio, given an investor’s utility (or risk aversion) and the capital allocation line
+□	calculate and interpret the mean, variance, and covariance (or correlation) of asset returns based on historical data
+□	calculate and interpret portfolio standard deviation
+□	describe the effect on a portfolio’s risk of investing in assets that are less than perfectly correlated
+□	describe and interpret the minimum-variance and efficient frontiers of risky assets and the global minimum-variance portfolio
+Portfolio Risk and Return: Part II
+The candidate should be able to:□	describe the implications of combining a risk-free asset with a portfolio of risky 
+assets
+□	explain the capital allocation line (CAL) and the capital market line (CML)
+□	explain systematic and nonsystematic risk, including why an investor should not expect to receive additional return for bearing nonsystematic risk
+□	explain return generating models (including the market model) and their uses
+□	calculate and interpret beta
+© CFA Institute. For candidate use only. Not for distribution.Portfolio Management 8
+□	explain the capital asset pricing model (CAPM), including its assumptions, and 
+the security market line (SML)
+□	calculate and interpret the expected return of an asset using the CAPM
+□	describe and demonstrate applications of the CAPM and the SML
+□	calculate and interpret the Sharpe ratio, Treynor ratio, M2, and Jensen’s alpha
+Portfolio Management: An Overview
+The candidate should be able to:□	describe the portfolio approach to investing
+□	describe the steps in the portfolio management process
+□	describe types of investors and distinctive characteristics and needs of each
+□	describe defined contribution and defined benefit pension plans
+□	describe aspects of the asset management industry
+□	describe mutual funds and compare them with other pooled investment 
+products
+Basics of Portfolio Planning and Construction
+The candidate should be able to:□	describe the reasons for a written investment policy statement (IPS)
+□	describe the major components of an IPS
+□	describe risk and return objectives and how they may be developed for a client
+□	explain the difference between the willingness and the ability (capacity) to take 
+risk in analyzing an investor’s financial risk tolerance
+□	describe the investment constraints of liquidity, time horizon, tax concerns, legal and regulatory factors, and unique circumstances and their implications for the choice of portfolio assets
+□	explain the specification of asset classes in relation to asset allocation
+□	describe the principles of portfolio construction and the role of asset allocation in relation to the IPS
+□	describe how environmental, social, and governance (ESG) considerations may be integrated into portfolio planning and construction
+The Behavioral Biases of Individuals
+The candidate should be able to:□	compare and contrast cognitive errors and emotional biases
+□	discuss commonly recognized behavioral biases and their implications for 
+financial decision making
+□	describe how behavioral biases of investors can lead to market characteristics that may not be explained by traditional finance
+Introduction to Risk Management
+The candidate should be able to:□	define risk management
+□	describe features of a risk management framework
+□	define risk governance and describe elements of effective risk governance
+□	explain how risk tolerance affects risk management
+□	describe risk budgeting and its role in risk governance
+□	identify financial and non-financial sources of risk and describe how they may 
+interact
+□	describe methods for measuring and modifying risk exposures and factors to consider in choosing among the methods
+© CFA Institute. For candidate use only. Not for distribution.Corporate Issuers
+LEARNING OUTCOMES
+Organizational Forms, Corporate Issuer Features, and Ownership
+The candidate should be able to:□	compare the organizational forms of businesses
+□	describe key features of corporate issuers
+□	compare publicly and privately owned corporate issuers
+Investors and Other StakeholdersThe candidate should be able to:□	compare the financial claims and motivations of lenders and shareholders
+□	describe a company’s stakeholder groups and compare their interests
+□	describe environmental, social, and governance factors of corporate issuers 
+considered by investors
+Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits
+The candidate should be able to:□	describe the principal-agent relationship and conflicts that may arise between 
+stakeholder groups
+□	describe corporate governance and mechanisms to manage stakeholder relationships and mitigate associated risks
+□	describe potential risks of poor corporate governance and stakeholder management and benefits of effective corporate governance and stakeholder management
+© CFA Institute. For candidate use only. Not for distribution.Corporate Issuers 10
+Working Capital and Liquidity
+The candidate should be able to:□	explain the cash conversion cycle and compare issuers’ cash conversion cycles
+□	explain liquidity and compare issuers’ liquidity levels
+□	describe issuers’ objectives and compare methods for managing working capital 
+and liquidity
+Capital Investments and Capital Allocation
+The candidate should be able to:□	describe types of capital investments
+□	describe the capital allocation process, calculate net present value (NPV), 
+internal rate of return (IRR), and return on invested capital (ROIC), and contrast their use in capital allocation
+□	describe principles of capital allocation and common capital allocation pitfalls
+□	describe types of real options relevant to capital investments
+Capital Structure
+The candidate should be able to:□	calculate and interpret the weighted-average cost of capital for a company
+□	explain factors affecting capital structure and the weighted-average cost of 
+capital
+□	explain the Modigliani–Miller propositions regarding capital structure
+□	describe optimal and target capital structures
+Business Models
+The candidate should be able to:□	describe key features of business models
+□	describe various types of business models
+© CFA Institute. For candidate use only. Not for distribution.Financial Statement 
+Analysis
+LEARNING OUTCOMES
+Introduction to Financial Statement Analysis
+The candidate should be able to:□	describe the steps in the financial statement analysis framework
+□	describe the roles of financial statement analysis
+□	describe the importance of regulatory filings, financial statement notes and 
+supplementary information, management’s commentary, and audit reports
+□	describe implications for financial analysis of alternative financial reporting systems and the importance of monitoring developments in financial reporting standards
+□	describe information sources that analysts use in financial statement analysis besides annual and interim financial reports
+Analyzing Income Statements
+The candidate should be able to:□	describe general principles of revenue recognition, specific revenue recognition 
+applications, and implications of revenue recognition choices for financial analysis
+□	describe general principles of expense recognition, specific expense recognition applications, implications of expense recognition choices for financial analysis and contrast costs that are capitalized versus those that are expensed in the period in which they are incurred
+□	describe the financial reporting treatment and analysis of non-recurring items (including discontinued operations, unusual or infrequent items) and changes in accounting policies
+© CFA Institute. For candidate use only. Not for distribution.Financial Statement Analysis 12
+□	describe how earnings per share is calculated and calculate and interpret a 
+company’s basic and diluted earnings per share for companies with simple and complex capital structures including those with antidilutive securities
+□	evaluate a company’s financial performance using common-size income statements and financial ratios based on the income statement
+Analyzing Balance Sheets
+The candidate should be able to:□	explain the financial reporting and disclosures related to intangible assets
+□	explain the financial reporting and disclosures related to goodwill
+□	explain the financial reporting and disclosures related to financial instruments
+□	explain the financial reporting and disclosures related to non-current liabilities
+□	calculate and interpret common-size balance sheets and related financial ratios
+Analyzing Statements of Cash Flows IThe candidate should be able to:□	describe how the cash flow statement is linked to the income statement and the 
+balance sheet
+□	describe the steps in the preparation of direct and indirect cash flow statements, 
+including how cash flows can be computed using income statement and balance sheet data
+□	demonstrate the conversion of cash flows from the indirect to direct method
+□	contrast cash flow statements prepared under International Financial Reporting Standards (IFRS) and US generally accepted accounting principles (US GAAP)
+Analyzing Statements of Cash Flows II
+The candidate should be able to:□	analyze and interpret both reported and common-size cash flow statements
+□	calculate and interpret free cash flow to the firm, free cash flow to equity, and 
+performance and coverage cash flow ratios
+Analysis of Inventories
+The candidate should be able to:□	describe the measurement of inventory at the lower of cost and net realisable 
+value and its implications for financial statements and ratios
+□	calculate and explain how inflation and deflation of inventory costs affect the financial statements and ratios of companies that use different inventory valuation methods
+□	describe the presentation and disclosures relating to inventories and explain issues that analysts should consider when examining a company’s inventory disclosures and other sources of information
+Analysis of Long-Term Assets
+The candidate should be able to:□	compare the financial reporting of the following types of intangible assets: 
+purchased, internally developed, and acquired in a business combination
+□	explain and evaluate how impairment and derecognition of property, plant, and equipment and intangible assets affect the financial statements and ratios
+□	analyze and interpret financial statement disclosures regarding property, plant, and equipment and intangible assets
+© CFA Institute. For candidate use only. Not for distribution.13 Financial Statement Analysis
+Topics in Long-Term Liabilities and Equity
+The candidate should be able to:□	explain the financial reporting of leases from the perspectives of lessors and 
+lessees
+□	explain the financial reporting of defined contribution, defined benefit, and stock-based compensation plans
+□	describe the financial statement presentation of and disclosures relating to long-term liabilities and share-based compensation
+Analysis of Income Taxes
+The candidate should be able to:□	contrast accounting profit, taxable income, taxes payable, and income tax 
+expense and temporary versus permanent differences between accounting profit and taxable income
+□	explain how deferred tax liabilities and assets are created and the factors that determine how a company’s deferred tax liabilities and assets should be treated for the purposes of financial analysis
+□	calculate, interpret, and contrast an issuer’s effective tax rate, statutory tax rate, and cash tax rate
+□	analyze disclosures relating to deferred tax items and the effective tax rate reconciliation and explain how information included in these disclosures affects a company’s financial statements and financial ratios
+Financial Reporting Quality
+The candidate should be able to:□	compare financial reporting quality with the quality of reported results 
+(including quality of earnings, cash flow, and balance sheet items)
+□	describe a spectrum for assessing financial reporting quality
+□	explain the difference between conservative and aggressive accounting
+□	describe motivations that might cause management to issue financial reports that are not high quality and conditions that are conducive to issuing low-quality, or even fraudulent, financial reports
+□	describe mechanisms that discipline financial reporting quality and the potential limitations of those mechanisms
+□	describe presentation choices, including non-GAAP measures, that could be used to influence an analyst’s opinion
+□	describe accounting methods (choices and estimates) that could be used to manage earnings, cash flow, and balance sheet items
+□	describe accounting warning signs and methods for detecting manipulation of information in financial reports
+Financial Analysis Techniques
+The candidate should be able to:□	describe tools and techniques used in financial analysis, including their uses and 
+limitations
+□	calculate and interpret activity, liquidity, solvency, and profitability ratios
+□	describe relationships among ratios and evaluate a company using ratio analysis
+□	demonstrate the application of DuPont analysis of return on equity and calculate and interpret effects of changes in its components
+□	describe the uses of industry-specific ratios used in financial analysis
+□	describe how ratio analysis and other techniques can be used to model and forecast earnings
+© CFA Institute. For candidate use only. Not for distribution.Financial Statement Analysis 14
+Introduction to Financial Statement Modeling
+The candidate should be able to:□	demonstrate the development of a sales-based pro forma company model
+□	explain how behavioral factors affect analyst forecasts and recommend remedial 
+actions for analyst biases
+□	explain how the competitive position of a company based on a Porter’s five forces analysis affects prices and costs
+□	explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation
+□	explain considerations in the choice of an explicit forecast horizon and an analyst’s choices in developing projections beyond the short-term forecast horizon
+© CFA Institute. For candidate use only. Not for distribution.Equity Investments
+LEARNING OUTCOMES
+Market Organization and Structure
+The candidate should be able to:□	explain the main functions of the financial system
+□	describe classifications of assets and markets
+□	describe the major types of securities, currencies, contracts, commodities, 
+and real assets that trade in organized markets, including their distinguishing characteristics and major subtypes
+□	describe types of financial intermediaries and services that they provide
+□	compare positions an investor can take in an asset
+□	calculate and interpret the leverage ratio, the rate of return on a margin transaction, and the security price at which the investor would receive a margin call
+□	compare execution, validity, and clearing instructions
+□	compare market orders with limit orders
+□	define primary and secondary markets and explain how secondary markets support primary markets
+□	describe how securities, contracts, and currencies are traded in quote-driven, order-driven, and brokered markets
+□	describe characteristics of a well-functioning financial system
+□	describe objectives of market regulation
+Security Market Indexes
+The candidate should be able to:□	describe a security market index
+© CFA Institute. For candidate use only. Not for distribution.Equity Investments 16
+□	calculate and interpret the value, price return, and total return of an index
+□	describe the choices and issues in index construction and management
+□	compare the different weighting methods used in index construction
+□	calculate and analyze the value and return of an index given its weighting 
+method
+□	describe rebalancing and reconstitution of an index
+□	describe uses of security market indexes
+□	describe types of equity indexes
+□	compare types of security market indexes
+□	describe types of fixed-income indexes
+□	describe indexes representing alternative investments
+Market Efficiency
+The candidate should be able to:□	describe market efficiency and related concepts, including their importance to 
+investment practitioners
+□	contrast market value and intrinsic value
+□	explain factors that affect a market’s efficiency
+□	contrast weak-form, semi-strong-form, and strong-form market efficiency
+□	explain the implications of each form of market efficiency for fundamental 
+analysis, technical analysis, and the choice between active and passive portfolio 
+management
+□	describe market anomalies
+□	describe behavioral finance and its potential relevance to understanding market anomalies
+Overview of Equity Securities
+The candidate should be able to:□	describe characteristics of types of equity securities
+□	describe differences in voting rights and other ownership characteristics among 
+different equity classes
+□	compare and contrast public and private equity securities
+□	describe methods for investing in non-domestic equity securities
+□	compare the risk and return characteristics of different types of equity securities
+□	explain the role of equity securities in the financing of a company’s assets
+□	contrast the market value and book value of equity securities
+□	compare a company’s cost of equity, its (accounting) return on equity, and investors’ required rates of return
+Company Analysis: Past and Present
+The candidate should be able to:□	describe the elements that should be covered in a thorough company research 
+report
+□	determine a company’s business model
+□	evaluate a company’s revenue and revenue drivers, including pricing power
+□	evaluate a company’s operating profitability and working capital using key measures
+□	evaluate a company’s capital investments and capital structure
+© CFA Institute. For candidate use only. Not for distribution.17 Equity Investments
+Industry and Competitive Analysis
+The candidate should be able to:□	describe the purposes of, and steps involved in, industry and competitive 
+analysis
+□	describe industry classification methods and compare methods by which companies can be grouped
+□	determine an industry’s size, growth characteristics, profitability, and market share trends
+□	analyze an industry’s structure and external influences using Porter’s Five Forces and PESTLE frameworks
+□	evaluate the competitive strategy and position of a company
+Company Analysis: Forecasting
+The candidate should be able to:□	explain principles and approaches to forecasting a company’s financial results 
+and position
+□	explain approaches to forecasting a company’s revenues
+□	explain approaches to forecasting a company’s operating expenses and working capital
+□	explain approaches to forecasting a company’s capital investments and capital structure
+□	describe the use of scenario analysis in forecasting
+Equity Valuation: Concepts and Basic Tools
+The candidate should be able to:□	evaluate whether a security, given its current market price and a value estimate, 
+is overvalued, fairly valued, or undervalued by the market
+□	describe major categories of equity valuation models
+□	describe regular cash dividends, extra dividends, stock dividends, stock splits, reverse stock splits, and share repurchases
+□	describe dividend payment chronology
+□	explain the rationale for using present value models to value equity and describe the dividend discount and free-cash-flow-to-equity models
+□	explain advantages and disadvantages of each category of valuation model
+□	calculate the intrinsic value of a non-callable, non-convertible preferred stock
+□	calculate and interpret the intrinsic value of an equity security based on the Gordon (constant) growth dividend discount model or a two-stage dividend discount model, as appropriate
+□	identify characteristics of companies for which the constant growth or a multistage dividend discount model is appropriate
+□	explain the rationale for using price multiples to value equity, how the price to earnings multiple relates to fundamentals, and the use of multiples based on comparables
+□	calculate and interpret the following multiples: price to earnings, price to an estimate of operating cash flow, price to sales, and price to book value
+□	describe enterprise value multiples and their use in estimating equity value
+□	describe asset-based valuation models and their use in estimating equity value
+© CFA Institute. For candidate use only. Not for distribution.Fixed Income
+LEARNING OUTCOMES
+Fixed-Income Instrument Features
+The candidate should be able to:□	describe the features of a fixed-income security
+□	describe the contents of a bond indenture and contrast affirmative and negative 
+covenants
+Fixed-Income Cash Flows and Types
+The candidate should be able to:□	describe common cash flow structures of fixed-income instruments and contrast 
+cash flow contingency provisions that benefit issuers and investors
+□	describe how legal, regulatory, and tax considerations affect the issuance and trading of fixed-income securities
+Fixed-Income Issuance and Trading
+The candidate should be able to:□	describe fixed-income market segments and their issuer and investor 
+participants
+□	describe types of fixed-income indexes
+□	compare primary and secondary fixed-income markets to equity markets
+© CFA Institute. For candidate use only. Not for distribution.19 Fixed Income
+Fixed-Income Markets for Corporate Issuers
+The candidate should be able to:□	compare short-term funding alternatives available to corporations and financial 
+institutions
+□	describe repurchase agreements (repos), their uses, and their benefits and risks
+□	contrast the long-term funding of investment-grade versus high-yield corporate issuers
+Fixed-Income Markets for Government Issuers
+The candidate should be able to:□	describe funding choices by sovereign and non-sovereign governments, 
+quasi-government entities, and supranational agencies
+□	contrast the issuance and trading of government and corporate fixed-income instruments
+Fixed-Income Bond Valuation: Prices and Yields
+The candidate should be able to:□	calculate a bond’s price given a yield-to-maturity on or between coupon dates
+□	identify the relationships among a bond’s price, coupon rate, maturity, and 
+yield-to-maturity
+□	describe matrix pricing
+Yield and Yield Spread Measures for Fixed-Rate Bonds
+The candidate should be able to:□	calculate annual yield on a bond for varying compounding periods in a year
+□	compare, calculate, and interpret yield and yield spread measures for fixed-rate 
+bonds
+Yield and Yield Spread Measures for Floating-Rate Instruments
+The candidate should be able to:□	calculate and interpret yield spread measures for floating-rate instruments
+□	calculate and interpret yield measures for money market instruments
+The Term Structure of Interest Rates: Spot, Par, and Forward CurvesThe candidate should be able to:□	define spot rates and the spot curve, and calculate the price of a bond using spot 
+rates
+□	define par and forward rates, and calculate par rates, forward rates from spot rates, spot rates from forward rates, and the price of a bond using forward rates
+□	compare the spot curve, par curve, and forward curve
+Interest Rate Risk and Return
+The candidate should be able to:□	calculate and interpret the sources of return from investing in a fixed-rate bond;
+□	describe the relationships among a bond’s holding period return, its Macaulay 
+duration, and the investment horizon;
+□	define, calculate, and interpret Macaulay duration.
+© CFA Institute. For candidate use only. Not for distribution.Fixed Income 20
+Yield-Based Bond Duration Measures and Properties
+The candidate should be able to:□	define, calculate, and interpret modified duration, money duration, and the price 
+value of a basis point (PVBP)
+□	explain how a bond’s maturity, coupon, and yield level affect its interest rate risk
+Yield-Based Bond Convexity and Portfolio Properties
+The candidate should be able to:□	calculate and interpret convexity and describe the convexity adjustment
+□	calculate the percentage price change of a bond for a specified change in yield, 
+given the bond’s duration and convexity
+□	calculate portfolio duration and convexity and explain the limitations of these measures
+Curve-Based and Empirical Fixed-Income Risk Measures
+The candidate should be able to:□	explain why effective duration and effective convexity are the most appropriate 
+measures of interest rate risk for bonds with embedded options
+□	calculate the percentage price change of a bond for a specified change in benchmark yield, given the bond’s effective duration and convexity
+□	define key rate duration and describe its use to measure price sensitivity of fixed-income instruments to benchmark yield curve changes
+□	describe the difference between empirical duration and analytical duration
+Credit Risk
+The candidate should be able to:□	describe credit risk and its components, probability of default and loss given 
+default
+□	describe the uses of ratings from credit rating agencies and their limitations
+□	describe macroeconomic, market, and issuer-specific factors that influence the level and volatility of yield spreads
+Credit Analysis for Government Issuers
+The candidate should be able to:□	explain special considerations when evaluating the credit of sovereign and 
+non-sovereign government debt issuers and issues
+Credit Analysis for Corporate Issuers
+The candidate should be able to:□	describe the qualitative and quantitative factors used to evaluate a corporate 
+borrower’s creditworthiness
+□	calculate and interpret financial ratios used in credit analysis
+□	describe the seniority rankings of debt, secured versus unsecured debt and the priority of claims in bankruptcy, and their impact on credit ratings
+Fixed-Income Securitization
+The candidate should be able to:□	explain benefits of securitization for issuers, investors, economies, and financial 
+markets
+□	describe securitization, including the parties and the roles they play
+© CFA Institute. For candidate use only. Not for distribution.21 Fixed Income
+Asset-Backed Security (ABS) Instrument and Market Features
+The candidate should be able to:□	describe characteristics and risks of covered bonds and how they differ from 
+other asset-backed securities
+□	describe typical credit enhancement structures used in securitizations
+□	describe types and characteristics of non-mortgage asset-backed securities, including the cash flows and risks of each type
+□	describe collateralized debt obligations, including their cash flows and risks
+Mortgage-Backed Security (MBS) Instrument and Market Features
+The candidate should be able to:□	define prepayment risk and describe time tranching structures in securitizations 
+and their purpose
+□	describe fundamental features of residential mortgage loans that are securitized
+□	describe types and characteristics of residential mortgage-backed securities, including mortgage pass-through securities and collateralized mortgage obligations, and explain the cash flows and risks for each type
+□	describe characteristics and risks of commercial mortgage-backed securities
+© CFA Institute. For candidate use only. Not for distribution.Derivatives
+LEARNING OUTCOMES
+Derivative Instrument and Derivative Market Features
+The candidate should be able to:□	define a derivative and describe basic features of a derivative instrument
+□	describe the basic features of derivative markets, and contrast over-the-counter 
+and exchange-traded derivative markets
+Forward Commitment and Contingent Claim Features and Instruments
+The candidate should be able to:□	define forward contracts, futures contracts, swaps, options (calls and puts), and 
+credit derivatives and compare their basic characteristics
+□	determine the value at expiration and profit from a long or a short position in a call or put option
+□	contrast forward commitments with contingent claims
+Derivative Benefits, Risks, and Issuer and Investor Uses
+The candidate should be able to:□	describe benefits and risks of derivative instruments
+□	compare the use of derivatives among issuers and investors
+Arbitrage, Replication, and the Cost of Carry in Pricing DerivativesThe candidate should be able to:□	explain how the concepts of arbitrage and replication are used in pricing 
+derivatives
+© CFA Institute. For candidate use only. Not for distribution.23 Derivatives
+□	explain the difference between the spot and expected future price of an 
+underlying and the cost of carry associated with holding the underlying asset
+Pricing and Valuation of Forward Contracts and for an Underlying with Varying 
+Maturities 
+The candidate should be able to:□	explain how the value and price of a forward contract are determined at 
+initiation, during the life of the contract, and at expiration
+□	explain how forward rates are determined for interest rate forward contracts and describe the uses of these forward rates.
+Pricing and Valuation of Futures Contracts
+The candidate should be able to:□	compare the value and price of forward and futures contracts
+□	explain why forward and futures prices differ
+Pricing and Valuation of Interest Rates and Other SwapsThe candidate should be able to:□	describe how swap contracts are similar to but different from a series of forward 
+contracts
+□	contrast the value and price of swaps
+Pricing and Valuation of Options
+The candidate should be able to:□	explain the exercise value, moneyness, and time value of an option
+□	contrast the use of arbitrage and replication concepts in pricing forward 
+commitments and contingent claims
+□	identify the factors that determine the value of an option and describe how each factor affects the value of an option
+Option Replication Using Put–Call Parity
+The candidate should be able to:□	explain put–call parity for European options
+□	explain put–call forward  parity for European options
+Valuing a Derivative Using a One-Period Binomial ModelThe candidate should be able to:□	explain how to value a derivative using a one-period binomial model
+□	describe the concept of risk neutrality in derivatives pricing
+© CFA Institute. For candidate use only. Not for distribution.Alternative Investments
+LEARNING OUTCOMES
+Alternative Investment Features, Methods, and Structures
+The candidate should be able to:□	describe features and categories of alternative investments
+□	compare direct investment, co-investment, and fund investment methods for 
+alternative investments
+□	describe investment ownership and compensation structures commonly used in alternative investments
+Alternative Investment Performance and Returns
+The candidate should be able to:□	describe the performance appraisal of alternative investments
+□	calculate and interpret alternative investment returns both before and after fees
+Investments in Private Capital: Equity and DebtThe candidate should be able to:□	explain features of private equity and its investment characteristics
+□	explain features of private debt and its investment characteristics
+□	describe the diversification benefits that private capital can provide
+Real Estate and InfrastructureThe candidate should be able to:□	explain features and characteristics of real estate
+□	explain the investment characteristics of real estate investments
+© CFA Institute. For candidate use only. Not for distribution.25 Alternative Investments
+□	explain features and characteristics of infrastructure
+□	explain the investment characteristics of infrastructure investments
+Natural Resources
+The candidate should be able to:□	explain features of raw land, timberland, and farmland and their investment 
+characteristics
+□	describe features of commodities and their investment characteristics
+□	analyze sources of risk, return, and diversification among natural resource investments
+Hedge Funds
+The candidate should be able to:□	explain investment features of hedge funds and contrast them with other asset 
+classes
+□	describe investment forms and vehicles used in hedge fund investments
+□	analyze sources of risk, return, and diversification among hedge fund 
+investments
+Introduction to Digital Assets
+The candidate should be able to:□	describe financial applications of distributed ledger technology
+□	explain investment features of digital assets and contrast them with other asset 
+classes
+□	describe investment forms and vehicles used in digital asset investments
+□	analyze sources of risk, return, and diversification among digital asset investments
+© CFA Institute. For candidate use only. Not for distribution.Ethical and Professional 
+Standards
+LEARNING OUTCOMES
+Ethics and Trust in the Investment Profession
+The candidate should be able to:□	explain ethics
+□	describe the role of a code of ethics in defining a profession
+□	describe professions and how they establish trust
+□	describe the need for high ethical standards in investment management
+□	explain professionalism in investment management
+□	identify challenges to ethical behavior
+□	compare and contrast ethical standards with legal standards
+□	describe a framework for ethical decision making
+Code of Ethics and Standards of Professional ConductThe candidate should be able to:□	describe the structure of the CFA Institute Professional Conduct Program and 
+the process for the enforcement of the Code and Standards
+□	identify the six components of the Code of Ethics and the seven Standards of Professional Conduct
+□	explain the ethical responsibilities required by the Code and Standards, including the sub-sections of each Standard
+© CFA Institute. For candidate use only. Not for distribution.27 Ethical and Professional Standards
+Guidance for Standards I–VII
+The candidate should be able to:□	demonstrate the application of the Code of Ethics and Standards of Professional 
+Conduct to situations involving issues of professional integrity
+□	recommend practices and procedures designed to prevent violations of the Code of Ethics and Standards of Professional Conduct
+□	identify conduct that conforms to the Code and Standards and conduct that violates the Code and Standards
+Introduction to the Global Investment Performance Standards (GIPS)
+The candidate should be able to:□	explain why the GIPS standards were created, who can claim compliance, and 
+who benefits from compliance 
+□	describe the key concepts of the GIPS Standards for Firms
+□	explain the purpose of composites in performance reporting
+□	describe the fundamentals of compliance, including the recommendations of the GIPS standards with respect to the definition of the firm and the firm’s definition of discretion
+□	describe the concept of independent verification
+Ethics Application
+The candidate should be able to:□	evaluate practices, policies, and conduct relative to the CFA Institute Code of 
+Ethics and Standards of Professional Conduct
+□	explain how the practices, policies, and conduct do or do not violate the CFA Institute Code of Ethics and Standards of Professional Conduct
+© CFA Institute. For candidate use only. Not for distribution.

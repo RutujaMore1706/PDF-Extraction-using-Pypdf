@@ -1,0 +1,536 @@
+Quantitative Methods
+LEARNING OUTCOMES
+Basics of Multiple Regression and Underlying Assumptions
+The candidate should be able to:□	describe the types of investment problems addressed by multiple linear 
+regression and the regression process
+□	formulate a multiple linear regression model, describe the relation between the dependent variable and several independent variables, and interpret estimated regression coefficients
+□	explain the assumptions underlying a multiple linear regression model and interpret residual plots indicating potential violations of these assumptions
+Evaluating Regression Model Fit and Interpreting Model Results
+The candidate should be able to:□	evaluate how well a multiple regression model explains the dependent variable 
+by analyzing ANOVA table results and measures of goodness of fit
+□	formulate hypotheses on the significance of two or more coefficients in a multiple regression model and interpret the results of the joint hypothesis tests
+□	calculate and interpret a predicted value for the dependent variable, given the estimated regression model and assumed values for the independent variable
+Model Misspecification
+The candidate should be able to:□	describe how model misspecification affects the results of a regression analysis 
+and how to avoid common forms of misspecification2024 Level II Topic Outlines
+© CFA Institute. For candidate use only. Not for distribution.Quantitative Methods 2
+□	explain the types of heteroskedasticity and how it affects statistical inference
+□	explain serial correlation and how it affects statistical inference
+□	explain multicollinearity and how it affects regression analysis
+Extensions of Multiple Regression
+The candidate should be able to:□	describe influence analysis and methods of detecting influential data points
+□	formulate and interpret a multiple regression model that includes qualitative 
+independent variables
+□	formulate and interpret a logistic regression model
+Time-Series Analysis
+The candidate should be able to:□	calculate and evaluate the predicted trend value for a time series, modeled as 
+either a linear trend or a log-linear trend, given the estimated trend coefficients
+□	describe factors that determine whether a linear or a log-linear trend should be used with a particular time series and evaluate limitations of trend models
+□	explain the requirement for a time series to be covariance stationary and describe the significance of a series that is not stationary
+□	describe the structure of an autoregressive (AR) model of order p and calculate one- and two-period-ahead forecasts given the estimated coefficients
+□	explain how autocorrelations of the residuals can be used to test whether the autoregressive model fits the time series
+□	explain mean reversion and calculate a mean-reverting level
+□	contrast in-sample and out-of-sample forecasts and compare the forecasting accuracy of different time-series models based on the root mean squared error criterion
+□	explain the instability of coefficients of time-series models
+□	describe characteristics of random walk processes and contrast them to covariance stationary processes
+□	describe implications of unit roots for time-series analysis, explain when unit roots are likely to occur and how to test for them, and demonstrate how a time series with a unit root can be transformed so it can be analyzed with an AR model
+□	describe the steps of the unit root test for nonstationarity and explain the relation of the test to autoregressive time-series models
+□	explain how to test and correct for seasonality in a time-series model and calculate and interpret a forecasted value using an AR model with a seasonal lag
+□	explain autoregressive conditional heteroskedasticity (ARCH) and describe how ARCH models can be applied to predict the variance of a time series
+□	explain how time-series variables should be analyzed for nonstationarity and/or cointegration before use in a linear regression
+□	determine an appropriate time-series model to analyze a given investment problem and justify that choice
+Machine Learning
+The candidate should be able to:□	describe supervised machine learning, unsupervised machine learning, and deep 
+learning
+□	describe overfitting and identify methods of addressing it
+© CFA Institute. For candidate use only. Not for distribution.3 Quantitative Methods
+□	describe supervised machine learning algorithms—including penalized 
+regression, support vector machine, k-nearest neighbor, classification and regression tree, ensemble learning, and random forest—and determine the problems for which they are best suited
+□	describe unsupervised machine learning algorithms—including principal components analysis, k-means clustering, and hierarchical clustering—and determine the problems for which they are best suited
+□	describe neural networks, deep learning nets, and reinforcement learning
+Big Data Projects
+The candidate should be able to:□	identify and explain steps in a data analysis project
+□	describe objectives, steps, and examples of preparing and wrangling data
+□	evaluate the fit of a machine learning algorithm
+□	describe objectives, methods, and examples of data exploration
+□	describe methods for extracting, selecting and engineering features from textual 
+data
+□	describe objectives, steps, and techniques in model training
+□	describe preparing, wrangling, and exploring text-based data for financial forecasting
+© CFA Institute. For candidate use only. Not for distribution.Economics
+LEARNING OUTCOMES
+Currency Exchange Rates: Understanding Equilibrium Value
+The candidate should be able to:□	calculate and interpret the bid–offer spread on a spot or forward currency 
+quotation and describe the factors that affect the bid–offer spread 
+□	identify a triangular arbitrage opportunity and calculate its profit, given the bid–offer quotations for three currencies
+□	explain spot and forward rates and calculate the forward premium/discount for a given currency
+□	calculate the mark-to-market value of a forward contract 
+□	explain international parity conditions (covered and uncovered interest rate parity, forward rate parity, purchasing power parity, and the international Fisher effect)
+□	describe relations among the international parity conditions
+□	evaluate the use of the current spot rate, the forward rate, purchasing power parity, and uncovered interest parity to forecast future spot exchange rates
+□	explain approaches to assessing the long-run fair value of an exchange rate
+□	describe the carry trade and its relation to uncovered interest rate parity and calculate the profit from a carry trade
+□	explain how flows in the balance of payment accounts affect currency exchange rates
+□	explain the potential effects of monetary and fiscal policy on exchange rates
+□	describe objectives of central bank or government intervention and capital controls and describe the effectiveness of intervention and capital controls
+□	describe warning signs of a currency crisis
+© CFA Institute. For candidate use only. Not for distribution.5 Economics
+Economic Growth
+The candidate should be able to:□	compare factors favoring and limiting economic growth in developed and 
+developing economies 
+□	describe the relation between the long-run rate of stock market appreciation and the sustainable growth rate of the economy
+□	explain why potential GDP and its growth rate matter for equity and fixed income investors
+□	contrast capital deepening investment and technological progress and explain how each affects economic growth and labor productivity
+□	demonstrate forecasting potential GDP based on growth accounting relations
+□	explain how natural resources affect economic growth and evaluate the argument that limited availability of natural resources constrains economic growth
+□	explain how demographics, immigration, and labor force participation affect the rate and sustainability of economic growth
+□	explain how investment in physical capital, human capital, and technological development affects economic growth
+□	compare classical growth theory, neoclassical growth theory, and endogenous growth theory
+□	explain and evaluate convergence hypotheses
+□	describe the economic rationale for governments to provide incentives to private investment in technology and knowledge
+□	describe the expected impact of removing trade barriers on capital investment and profits, employment and wages, and growth in the economies involved
+Economics of Regulation
+The candidate should be able to:□	describe the economic rationale for regulatory intervention
+□	explain the purposes of regulating commerce and financial markets
+□	describe anticompetitive behaviors targeted by antitrust laws globally and 
+evaluate the antitrust risk associated with a given business strategy
+□	describe classifications of regulations and regulators
+□	describe uses of self-regulation in financial markets
+□	describe regulatory interdependencies and their effects
+□	describe tools of regulatory intervention in markets
+□	describe benefits and costs of regulation
+□	describe the considerations when evaluating the effects of regulation on an industry
+© CFA Institute. For candidate use only. Not for distribution.Financial Statement 
+Analysis
+LEARNING OUTCOMES
+Intercorporate Investments
+The candidate should be able to:□	describe the classification, measurement, and disclosure under International 
+Financial Reporting Standards (IFRS) for 1) investments in financial assets, 2) investments in associates, 3) joint ventures, 4) business combinations, and 5) special purpose and variable interest entities
+□	compare and contrast  IFRS and US GAAP in their classification, measurement, and disclosure of investments in financial assets, investments in associates, joint ventures, business combinations, and special purpose and variable interest entities
+□	analyze how different methods used to account for intercorporate investments affect financial statements and ratios
+Employee Compensation: Post-Employment and Share-Based
+The candidate should be able to:□	contrast types of employee compensation
+□	explain how share-based compensation affects the financial statements
+□	explain how to forecast share-based compensation expense and shares 
+outstanding in a financial statement model and their use in valuation
+□	explain how post-employment benefits affect the financial statements
+□	explain financial modeling and valuation considerations for post-employment benefits
+© CFA Institute. For candidate use only. Not for distribution.7 Financial Statement Analysis
+Multinational Operations
+The candidate should be able to:□	compare and contrast presentation in (reporting) currency, functional currency, 
+and local currency
+□	describe foreign currency transaction exposure, including accounting for and disclosures about foreign currency transaction gains and losses
+□	analyze how changes in exchange rates affect the translated sales of the subsidiary and parent company
+□	compare the current rate method and the temporal method, evaluate how each affects the parent company’s balance sheet and income statement, and determine which method is appropriate in various scenarios
+□	calculate the translation effects and evaluate the translation of a subsidiary’s balance sheet and income statement into the parent company’s presentation currency
+□	analyze how the current rate method and the temporal method affect financial statements and ratios
+□	analyze how alternative translation methods for subsidiaries operating in hyperinflationary economies affect financial statements and ratios
+□	describe how multinational operations affect a company’s effective tax rate
+□	explain how changes in the components of sales affect the sustainability of sales growth
+□	analyze how currency fluctuations potentially affect financial results, given a company’s countries of operation
+Analysis of Financial Institutions
+The candidate should be able to:□	describe how financial institutions differ from other companies
+□	describe key aspects of financial regulations of financial institutions
+□	explain the CAMELS (capital adequacy, asset quality, management, earnings, 
+liquidity, and sensitivity) approach to analyzing a bank, including key ratios and its limitations
+□	analyze a bank based on financial statements and other factors
+□	describe other factors to consider in analyzing a bank
+□	describe key ratios and other factors to consider in analyzing an insurance company
+Evaluating Quality of Financial Reports
+The candidate should be able to:□	demonstrate the use of a conceptual framework for assessing the quality of a 
+company’s financial reports
+□	explain potential problems that affect the quality of financial reports
+□	describe how to evaluate the quality of a company’s financial reports
+□	evaluate the quality of a company’s financial reports
+□	describe indicators of earnings quality
+□	describe the concept of sustainable (persistent) earnings
+□	explain mean reversion in earnings and how the accruals component of earnings affects the speed of mean reversion
+□	evaluate the earnings quality of a company
+□	evaluate the cash flow quality of a company
+□	describe indicators of balance sheet quality
+□	evaluate the balance sheet quality of a company
+□	describe indicators of cash flow quality
+□	describe sources of information about risk
+© CFA Institute. For candidate use only. Not for distribution.Financial Statement Analysis 8
+Integration of Financial Statement Analysis Techniques
+The candidate should be able to:□	demonstrate the use of a framework for the analysis of financial statements, 
+given a particular problem, question, or purpose (e.g., valuing equity based on comparables, critiquing a credit rating, obtaining a comprehensive picture of financial leverage, evaluating the perspectives given in management’s discussion of financial results)
+□	identify financial reporting choices and biases that affect the quality and comparability of companies’ financial statements and explain how such biases may affect financial decisions
+□	evaluate the quality of a company’s financial data and recommend appropriate adjustments to improve quality and comparability with similar companies, including adjustments for differences in accounting standards, methods, and assumptions
+□	evaluate how a given change in accounting standards, methods, or assumptions affects financial statements and ratios
+□	analyze and interpret how balance sheet modifications, earnings normalization, and cash flow statement related modifications affect a company’s financial statements, financial ratios, and overall financial condition
+Financial Statement Modeling
+The candidate should be able to:□	compare top-down, bottom-up, and hybrid approaches for developing inputs to 
+equity valuation models 
+□	compare “growth relative to GDP growth” and “market growth and market share” approaches to forecasting revenue
+□	evaluate whether economies of scale are present in an industry by analyzing operating margins and sales levels
+□	demonstrate methods to forecast cost of goods sold and operating expenses
+□	demonstrate methods to forecast non-operating items, financing costs, and income taxes
+□	describe approaches to balance sheet modeling
+□	demonstrate the development of a sales-based pro forma company model 
+□	explain how behavioral factors affect analyst forecasts and recommend remedial actions for analyst biases
+□	explain how competitive factors affect prices and costs
+□	evaluate the competitive position of a company based on a Porter’s five forces analysis
+□	explain how to forecast industry and company sales and costs when they are subject to price inflation or deflation
+□	evaluate the effects of technological developments on demand, selling prices, costs, and margins
+□	explain considerations in the choice of an explicit forecast horizon
+□	explain an analyst’s choices in developing projections beyond the short-term forecast horizon
+© CFA Institute. For candidate use only. Not for distribution.Corporate Issuers
+LEARNING OUTCOMES
+Analysis of Dividends and Share Repurchases
+The candidate should be able to:□	describe the expected effect of regular cash dividends, extra dividends, 
+liquidating dividends, stock dividends, stock splits, and reverse stock splits on shareholders’ wealth and a company’s financial ratios
+□	compare theories of dividend policy and explain implications of each for share value given a description of a corporate dividend action
+□	describe types of information (signals) that dividend initiations, increases, decreases, and omissions may convey
+□	explain how agency costs may affect a company’s payout policy
+□	explain factors that affect dividend policy in practice
+□	calculate and interpret the effective tax rate on a given currency unit of corporate earnings under double taxation, dividend imputation, and split-rate tax systems
+□	compare stable dividend with constant dividend payout ratio, and calculate the dividend under each policy
+□	describe broad trends in corporate payout policies
+□	compare share repurchase methods
+□	calculate and compare the effect of a share repurchase on earnings per share when 1) the repurchase is financed with the company’s surplus cash and 2) the company uses debt to finance the repurchase
+□	calculate the effect of a share repurchase on book value per share
+□	explain the choice between paying cash dividends and repurchasing shares
+□	calculate and interpret dividend coverage ratios based on 1) net income and 2) free cash flow
+© CFA Institute. For candidate use only. Not for distribution.Corporate Issuers 10
+□	identify characteristics of companies that may not be able to sustain their cash 
+dividend
+Environmental, Social, and Governance (ESG) 
+Considerations in Investment Analysis
+The candidate should be able to:□	describe global variations in ownership structures and the possible effects of 
+these variations on corporate governance policies and practices
+□	evaluate the effectiveness of a company’s corporate governance policies and practices
+□	describe how ESG-related risk exposures and investment opportunities may be identified and evaluated
+□	evaluate ESG risk exposures and investment opportunities related to a company
+Cost of Capital: Advanced Topics
+The candidate should be able to:□	explain top-down and bottom-up factors that impact the cost of capital
+□	Compare methods used to estimate the cost of debt.
+□	explain historical and forward-looking approaches to estimating an equity risk 
+premium
+□	compare methods used to estimate the required return on equity
+□	estimate the cost of debt or required return on equity for a public company and a private company
+□	evaluate a company’s capital structure and cost of capital relative to peers
+Corporate Restructuring
+The candidate should be able to:□	explain types of corporate restructurings and issuers’ motivations for pursuing 
+them
+□	explain the initial evaluation of a corporate restructuring
+□	demonstrate valuation methods for, and interpret valuations of, companies involved in corporate restructurings
+□	demonstrate how corporate restructurings affect an issuer’s EPS, net debt to EBITDA ratio, and weighted average cost of capital
+□	evaluate corporate investment actions, including equity investments, joint ventures, and acquisitions 
+□	evaluate corporate divestment actions, including sales and spin offs
+□	evaluate cost and balance sheet restructurings
+© CFA Institute. For candidate use only. Not for distribution.Equity Valuation
+LEARNING OUTCOMES
+Equity Valuation: Applications and Processes
+The candidate should be able to:□	define valuation and intrinsic value and explain sources of perceived mispricing
+□	explain the going concern assumption and contrast a going concern value to a 
+liquidation value
+□	describe definitions of value and justify which definition of value is most relevant to public company valuation
+□	describe applications of equity valuation
+□	describe questions that should be addressed in conducting an industry and competitive analysis
+□	contrast absolute and relative valuation models and describe examples of each type of model
+□	describe sum-of-the-parts valuation and conglomerate discounts
+□	explain broad criteria for choosing an appropriate approach for valuing a given company
+Discounted Dividend Valuation
+The candidate should be able to:□	compare dividends, free cash flow, and residual income as inputs to discounted 
+cash flow models and identify investment situations for which each measure is suitable
+□	calculate and interpret the value of a common stock using the dividend discount model (DDM) for single and multiple holding periods
+© CFA Institute. For candidate use only. Not for distribution.Equity Valuation 12
+□	calculate the value of a common stock using the Gordon growth model and 
+explain the model’s underlying assumptions
+□	calculate the value of non-callable fixed-rate perpetual preferred stock
+□	describe strengths and limitations of the Gordon growth model and justify its selection to value a company’s common shares
+□	calculate and interpret the implied growth rate of dividends using the Gordon growth model and current stock price
+□	calculate and interpret the present value of growth opportunities (PVGO) and the component of the leading price-to-earnings ratio (P/E) related to PVGO
+□	calculate and interpret the justified leading and trailing P/Es using the Gordon growth model
+□	estimate a required return based on any DDM, including the Gordon growth model and the H-model
+□	evaluate whether a stock is overvalued, fairly valued, or undervalued by the market based on a DDM estimate of value
+□	explain the growth phase, transition phase, and maturity phase of a business
+□	explain the assumptions and justify the selection of the two-stage DDM, the H-model, the three-stage DDM, or spreadsheet modeling to value a company’s common shares
+□	describe terminal value and explain alternative approaches to determining the terminal value in a DDM
+□	calculate and interpret the value of common shares using the two-stage DDM, the H-model, and the three-stage DDM
+□	explain the use of spreadsheet modeling to forecast dividends and to value common shares
+□	calculate and interpret the sustainable growth rate of a company and demonstrate the use of DuPont analysis to estimate a company’s sustainable growth rate
+Free Cash Flow Valuation
+The candidate should be able to:□	compare the free cash flow to the firm (FCFF) and free cash flow to equity 
+(FCFE) approaches to valuation
+□	explain the ownership perspective implicit in the FCFE approach
+□	explain the appropriate adjustments to net income, earnings before interest and taxes (EBIT), earnings before interest, taxes, depreciation, and amortization (EBITDA), and cash flow from operations (CFO) to calculate FCFF and FCFE
+□	calculate FCFF and FCFE
+□	describe approaches for forecasting FCFF and FCFE
+□	explain how dividends, share repurchases, share issues, and changes in leverage may affect future FCFF and FCFE
+□	compare the FCFE model and dividend discount models
+□	evaluate the use of net income and EBITDA as proxies for cash flow in valuation
+□	explain the use of sensitivity analysis in FCFF and FCFE valuations
+□	explain the single-stage (stable-growth), two-stage, and three-stage FCFF and FCFE models and justify the selection of the appropriate model given a company’s characteristics
+□	estimate a company’s value using the appropriate free cash flow model(s)
+□	describe approaches for calculating the terminal value in a multistage valuation model; and
+□	evaluate whether a stock is overvalued, fairly valued, or undervalued based on a free cash flow valuation model
+© CFA Institute. For candidate use only. Not for distribution.13 Equity Valuation
+Market-Based Valuation: Price and Enterprise Value Multiples
+The candidate should be able to:□	contrast the method of comparables and the method based on forecasted 
+fundamentals as approaches to using price multiples in valuation and explain economic rationales for each approach
+□	calculate and interpret a justified price multiple
+□	describe rationales for and possible drawbacks to using alternative price multiples and dividend yield in valuation
+□	calculate and interpret alternative price multiples and dividend yield
+□	calculate and interpret underlying earnings, explain methods of normalizing earnings per share (EPS), and calculate normalized EPS
+□	explain and justify the use of earnings yield (E/P)
+□	describe fundamental factors that influence alternative price multiples and dividend yield
+□	calculate and interpret a predicted P/E, given a cross-sectional regression on fundamentals, and explain limitations to the cross-sectional regression methodology
+□	calculate and interpret the justified price-to-earnings ratio (P/E), price-to-book ratio (P/B), and price-to-sales ratio (P/S) for a stock, based on forecasted fundamentals
+□	calculate and interpret the P/E-to-growth (PEG) ratio and explain its use in relative valuation
+□	calculate and explain the use of price multiples in determining terminal value in a multistage discounted cash flow (DCF) model
+□	evaluate whether a stock is overvalued, fairly valued, or undervalued based on comparisons of multiples
+□	evaluate a stock by the method of comparables and explain the importance of fundamentals in using the method of comparables
+□	explain alternative definitions of cash flow used in price and enterprise value (EV) multiples and describe limitations of each definition
+□	calculate and interpret EV multiples and evaluate the use of EV/EBITDA
+□	explain sources of differences in cross-border valuation comparisons
+□	describe momentum indicators and their use in valuation
+□	explain the use of the arithmetic mean, the harmonic mean, the weighted harmonic mean, and the median to describe the central tendency of a group of multiples
+Residual Income Valuation
+The candidate should be able to:□	calculate and interpret residual income, economic value added, and market value 
+added
+□	describe the uses of residual income models
+□	calculate the intrinsic value of a common stock using the residual income model and compare value recognition in residual income and other present value models
+□	explain fundamental determinants of residual income
+□	explain the relation between residual income valuation and the justified price-to-book ratio based on forecasted fundamentals
+□	calculate and interpret the intrinsic value of a common stock using single-stage (constant-growth) and multistage residual income models
+□	calculate the implied growth rate in residual income, given the market price-to-book ratio and an estimate of the required rate of return on equity
+© CFA Institute. For candidate use only. Not for distribution.Equity Valuation 14
+□	explain continuing residual income and justify an estimate of continuing residual 
+income at the forecast horizon, given company and industry prospects
+□	compare residual income models to dividend discount and free cash flow models
+□	explain strengths and weaknesses of residual income models and justify the selection of a residual income model to value a company’s common stock
+□	describe accounting issues in applying residual income models
+Private Company Valuation
+The candidate should be able to:□	contrast important public and private company features for valuation purposes
+□	describe uses of private business valuation and explain key areas of focus for 
+financial analysts
+□	explain cash flow estimation issues related to private companies and adjustments required to estimate normalized earnings
+□	explain factors that require adjustment when estimating the discount rate for private companies
+□	compare models used to estimate the required rate of return to private company equity (for example, the CAPM, the expanded CAPM, and the build-up approach)
+□	explain and evaluate the effects on private company valuations of discounts and premiums based on control and marketability
+□	explain the income, market, and asset-based approaches to private company valuation and factors relevant to the selection of each approach 
+□	calculate the value of a private company using income-based methods
+□	calculate the value of a private company using market-based methods and describe the advantages and disadvantages of each method
+© CFA Institute. For candidate use only. Not for distribution.Fixed Income
+LEARNING OUTCOMES
+The Term Structure and Interest Rate Dynamics
+The candidate should be able to:□	describe relationships among spot rates, forward rates, yield to maturity, 
+expected and realized returns on bonds, and the shape of the yield curve
+□	describe how zero-coupon rates (spot rates) may be obtained from the par curve by bootstrapping
+□	describe the assumptions concerning the evolution of spot rates in relation to forward rates implicit in active bond portfolio management
+□	describe the strategy of rolling down the yield curve
+□	explain the swap rate curve and why and how market participants use it in valuation
+□	calculate and interpret the swap spread for a given maturity 
+□	describe short-term interest rate spreads used to gauge economy-wide credit risk and liquidity risk
+□	explain traditional theories of the term structure of interest rates and describe the implications of each theory for forward rates and the shape of the yield curve
+□	explain how a bond’s exposure to each of the factors driving the yield curve can be measured and how these exposures can be used to manage yield curve risks
+□	explain the maturity structure of yield volatilities and their effect on price volatility
+□	explain how key economic factors are used to establish a view on benchmark rates, spreads, and yield curve changes
+© CFA Institute. For candidate use only. Not for distribution.Fixed Income 16
+The Arbitrage-Free Valuation Framework
+The candidate should be able to:□	explain what is meant by arbitrage-free valuation of a fixed-income instrument
+□	calculate the arbitrage-free value of an option-free, fixed-rate coupon bond
+□	describe a binomial interest rate tree framework
+□	describe the process of calibrating a binomial interest rate tree to match a 
+specific term structure
+□	describe the backward induction valuation methodology and calculate the value of a fixed-income instrument given its cash flow at each node
+□	compare pricing using the zero-coupon yield curve with pricing using an arbitrage-free binomial lattice
+□	describe pathwise valuation in a binomial interest rate framework and calculate the value of a fixed-income instrument given its cash flows along each path
+□	describe a Monte Carlo forward-rate simulation and its application
+□	describe term structure models and how they are used
+Valuation and Analysis of Bonds with Embedded Options
+The candidate should be able to:□	describe fixed-income securities with embedded options
+□	explain the relationships between the values of a callable or putable bond, the 
+underlying option-free (straight) bond, and the embedded option
+□	describe how the arbitrage-free framework can be used to value a bond with embedded options
+□	explain how interest rate volatility affects the value of a callable or putable bond
+□	explain how changes in the level and shape of the yield curve affect the value of a callable or putable bond
+□	calculate the value of a callable or putable bond from an interest rate tree
+□	explain the calculation and use of option-adjusted spreads
+□	explain how interest rate volatility affects option-adjusted spreads
+□	calculate and interpret effective duration of a callable or putable bond
+□	compare effective durations of callable, putable, and straight bonds
+□	describe the use of one-sided durations and key rate durations to evaluate the interest rate sensitivity of bonds with embedded options
+□	compare effective convexities of callable, putable, and straight bonds
+□	calculate the value of a capped or floored floating-rate bond
+□	describe defining features of a convertible bond
+□	calculate and interpret the components of a convertible bond’s value
+□	describe how a convertible bond is valued in an arbitrage-free framework
+□	compare the risk–return characteristics of a convertible bond with the risk–return characteristics of a straight bond and of the underlying common stock
+Credit Analysis Models
+The candidate should be able to:□	explain expected exposure, the loss given default, the probability of default, and 
+the credit valuation adjustment
+□	explain credit scores and credit ratings
+□	calculate the expected return on a bond given transition in its credit rating
+□	explain structural and reduced-form models of corporate credit risk, including assumptions, strengths, and weaknesses
+□	calculate the value of a bond and its credit spread, given assumptions about the credit risk parameters
+□	interpret changes in a credit spread
+© CFA Institute. For candidate use only. Not for distribution.17 Fixed Income
+□	explain the determinants of the term structure of credit spreads and interpret a 
+term structure of credit spreads
+□	compare the credit analysis required for securitized debt to the credit analysis of corporate debt
+Credit Default Swaps
+The candidate should be able to:□	describe credit default swaps (CDS), single-name and index CDS, and the 
+parameters that define a given CDS product
+□	describe credit events and settlement protocols with respect to CDS
+□	explain the principles underlying and factors that influence the market’s pricing of CDS
+□	describe the use of CDS to manage credit exposures and to express views regarding changes in the shape and/or level of the credit curve
+□	describe the use of CDS to take advantage of valuation disparities among separate markets, such as bonds, loans, equities, and equity-linked instruments
+© CFA Institute. For candidate use only. Not for distribution.Derivatives
+LEARNING OUTCOMES
+Pricing and Valuation of Forward Commitments
+The candidate should be able to:□	describe how equity forwards and futures are priced, and calculate and interpret 
+their no-arbitrage value
+□	describe the carry arbitrage model without underlying cashflows and with underlying cashflows
+□	describe how interest rate forwards and futures are priced, and calculate and interpret their no-arbitrage value
+□	describe how fixed-income forwards and futures are priced, and calculate and interpret their no-arbitrage value
+□	describe how interest rate swaps are priced, and calculate and interpret their no-arbitrage value
+□	describe how currency swaps are priced, and calculate and interpret their no-arbitrage value
+□	describe how equity swaps are priced, and calculate and interpret their no-arbitrage value
+Valuation of Contingent Claims
+The candidate should be able to:□	describe and interpret the binomial option valuation model and its component 
+terms
+□	describe how the value of a European option can be analyzed as the present value of the option’s expected payoff at expiration
+© CFA Institute. For candidate use only. Not for distribution.19 Derivatives
+□	identify an arbitrage opportunity involving options and describe the related 
+arbitrage
+□	calculate the no-arbitrage values of European and American options using a two-period binomial model
+□	calculate and interpret the value of an interest rate option using a two-period binomial model
+□	identify assumptions of the Black–Scholes–Merton option valuation model
+□	interpret the components of the Black–Scholes–Merton model as applied to call options in terms of a leveraged position in the underlying
+□	describe how the Black–Scholes–Merton model is used to value European options on equities and currencies
+□	describe how the Black model is used to value European options on futures
+□	describe how the Black model is used to value European interest rate options and European swaptions
+□	interpret each of the option Greeks
+□	describe how a delta hedge is executed
+□	describe the role of gamma risk in options trading
+□	define implied volatility and explain how it is used in options trading
+© CFA Institute. For candidate use only. Not for distribution.Alternative Investments
+LEARNING OUTCOMES
+Introduction to Commodities and Commodity Derivatives
+The candidate should be able to:□	compare characteristics of commodity sectors
+□	compare the life cycle of commodity sectors from production through trading or 
+consumption
+□	contrast the valuation of commodities with the valuation of equities and bonds
+□	describe types of participants in commodity futures markets
+□	analyze the relationship between spot prices and futures prices in markets in contango and markets in backwardation
+□	compare theories of commodity futures returns
+□	describe, calculate, and interpret the components of total return for a fully collateralized commodity futures contract
+□	contrast roll return in markets in contango and markets in backwardation
+□	describe how commodity swaps are used to obtain or modify exposure to commodities
+□	describe how the construction of commodity indexes affects index returns
+Overview of Types of Real Estate Investment
+The candidate should be able to:□	compare the characteristics, classifications, principal risks, and basic forms of 
+public and private real estate investments
+□	explain portfolio roles and economic value determinants of real estate investments
+© CFA Institute. For candidate use only. Not for distribution.21 Alternative Investments
+□	discuss commercial property types, including their distinctive investment 
+characteristics
+□	explain the due diligence process for both private and public equity real estate investment
+□	discuss real estate investment indexes, including their construction and potential biases
+Investments in Real Estate through Publicly Traded Securities
+The candidate should be able to:□	discuss types of publicly traded real estate securities
+□	justify the use of net asset value per share (NAVPS) in valuation of publicly 
+traded real estate securities and estimate NAVPS based on forecasted cash net operating income
+□	describe the use of funds from operations (FFO) and adjusted funds from operations (AFFO) in REIT valuation
+□	calculate and interpret the value of a REIT share using the net asset value, relative value (price-to-FFO and price-to-AFFO), and discounted cash flow approaches
+□	explain advantages and disadvantages of investing in real estate through publicly traded securities compared to private vehicles
+Hedge Fund Strategies
+The candidate should be able to:□	discuss how hedge fund strategies may be classified
+□	discuss investment characteristics, strategy implementation, and role in a 
+portfolio of equity-related hedge fund strategies
+□	discuss investment characteristics, strategy implementation, and role in a portfolio of event-driven hedge fund strategies
+□	discuss investment characteristics, strategy implementation, and role in a portfolio of relative value hedge fund strategies
+□	discuss investment characteristics, strategy implementation, and role in a portfolio of opportunistic hedge fund strategies
+□	discuss investment characteristics, strategy implementation, and role in a portfolio of specialist hedge fund strategies
+□	discuss investment characteristics, strategy implementation, and role in a portfolio of multi-manager hedge fund strategies
+□	describe how factor models may be used to understand hedge fund risk exposures
+□	evaluate the impact of an allocation to a hedge fund strategy in a traditional investment portfolio
+© CFA Institute. For candidate use only. Not for distribution.Portfolio Management
+LEARNING OUTCOMES
+Exchange-Traded Funds: Mechanics and Applications
+The candidate should be able to:□	explain the creation/redemption process of ETFs and the function of authorized 
+participants
+□	describe how ETFs are traded in secondary markets
+□	describe sources of tracking error for ETFs
+□	describe factors affecting ETF bid–ask spreads
+□	describe sources of ETF premiums and discounts to NAV
+□	describe costs of owning an ETF
+□	describe types of ETF risk
+□	identify and describe portfolio uses of ETFs
+Using Multifactor Models
+The candidate should be able to:□	describe arbitrage pricing theory (APT), including its underlying assumptions 
+and its relation to multifactor models
+□	define arbitrage opportunity and determine whether an arbitrage opportunity exists
+□	calculate the expected return on an asset given an asset’s factor sensitivities and the factor risk premiums
+□	describe and compare macroeconomic factor models, fundamental factor models, and statistical factor models
+□	describe uses of multifactor models and interpret the output of analyses based on multifactor models
+© CFA Institute. For candidate use only. Not for distribution.23 Portfolio Management
+□	describe the potential benefits for investors in considering multiple risk 
+dimensions when modeling asset returns
+□	explain sources of active risk and interpret tracking risk and the information ratio
+Measuring and Managing Market Risk
+The candidate should be able to:□	explain the use of value at risk (VaR) in measuring portfolio risk
+□	compare the parametric (variance–covariance), historical simulation, and Monte 
+Carlo simulation methods for estimating VaR
+□	estimate and interpret VaR under the parametric, historical simulation, and Monte Carlo simulation methods
+□	describe advantages and limitations of VaR
+□	describe extensions of VaR
+□	describe sensitivity risk measures and scenario risk measures and compare these measures to VaR
+□	demonstrate how equity, fixed-income, and options exposure measures may be used in measuring and managing market risk and volatility risk
+□	describe the use of sensitivity risk measures and scenario risk measures
+□	describe advantages and limitations of sensitivity risk measures and scenario risk measures
+□	explain constraints used in managing market risks, including risk budgeting, position limits, scenario limits, and stop-loss limits
+□	explain how risk measures may be used in capital allocation decisions
+□	describe risk measures used by banks, asset managers, pension funds, and insurers
+Backtesting and Simulation
+The candidate should be able to:□	describe objectives in backtesting an investment strategy
+□	describe and contrast steps and procedures in backtesting an investment 
+strategy
+□	interpret metrics and visuals reported in a backtest of an investment strategy
+□	identify problems in a backtest of an investment strategy
+□	evaluate and interpret a historical scenario analysis
+□	contrast Monte Carlo and historical simulation approaches
+□	explain inputs and decisions in simulation and interpret a simulation; and
+□	demonstrate the use of sensitivity analysis
+Economics and Investment Markets
+The candidate should be able to:□	explain the notion that to affect market values, economic factors must affect one 
+or more of the following: 1) default-free interest rates across maturities, 2) the timing and/or magnitude of expected cash flows, and 3) risk premiums
+□	explain the role of expectations and changes in expectations in market valuation
+□	explain the relationship between the long-term growth rate of the economy, the volatility of the growth rate, and the average level of real short-term interest rates
+□	explain how the phase of the business cycle affects policy and short-term interest rates, the slope of the term structure of interest rates, and the relative performance of bonds of differing maturities
+© CFA Institute. For candidate use only. Not for distribution.24 Portfolio Management
+□	describe the factors that affect yield spreads between non-inflation-adjusted and 
+inflation-indexed bonds
+□	explain how the phase of the business cycle affects credit spreads and the performance of credit-sensitive fixed-income instruments
+□	explain how the characteristics of the markets for a company’s products affect the company’s credit quality
+□	explain the relationship between the consumption hedging properties of equity and the equity risk premium
+□	explain how the phase of the business cycle affects short-term and long-term earnings growth expectations
+□	describe cyclical effects on valuation multiples
+□	describe the economic factors affecting investment in commercial real estate
+Analysis of Active Portfolio Management
+The candidate should be able to:□	describe how value added by active management is measured
+□	calculate and interpret the information ratio (ex post and ex ante) and contrast it 
+to the Sharpe ratio
+□	describe and interpret the fundamental law of active portfolio management, including its component terms—transfer coefficient, information coefficient, breadth, and active risk (aggressiveness)
+□	explain how the information ratio may be useful in investment manager selection and choosing the level of active portfolio risk
+□	compare active management strategies, including market timing and security selection, and evaluate strategy changes in terms of the fundamental law of active management
+□	describe the practical strengths and limitations of the fundamental law of active management
+© CFA Institute. For candidate use only. Not for distribution.Ethical and Professional 
+Standards
+LEARNING OUTCOMES
+Code of Ethics and Standards of Professional Conduct
+The candidate should be able to:□	describe the six components of the Code of Ethics and the seven Standards of 
+Professional Conduct
+□	explain the ethical responsibilities required of CFA Institute members and candidates in the CFA Program by the Code and Standards
+Guidance for Standards I–VII
+The candidate should be able to:□	demonstrate a thorough knowledge of the CFA Institute Code of Ethics and 
+Standards of Professional Conduct by applying the Code and Standards to specific situations
+□	recommend practices and procedures designed to prevent violations of the Code of Ethics and Standards of Professional Conduct
+Application of the Code and Standards: Level II
+The candidate should be able to:□	evaluate practices, policies, and conduct relative to the CFA Institute Code of 
+Ethics and Standards of Professional Conduct
+□	explain how the practices, policies, and conduct do or do not violate the CFA Institute Code of Ethics and Standards of Professional Conduct
+© CFA Institute. For candidate use only. Not for distribution.

@@ -1,0 +1,374 @@
+2024 Level III Topic Outlines
+Economics
+LEARNING OUTCOMES
+Capital Market Expectations, Part 1: Framework and Macro Considerations
+The candidate should be able to:□	discuss the role of, and a framework for, capital market expectations in the 
+portfolio management process
+□	discuss challenges in developing capital market forecasts
+□	explain how exogenous shocks may affect economic growth trends
+□	discuss the application of economic growth trend analysis to the formulation of capital market expectations 
+□	compare major approaches to economic forecasting 
+□	discuss how business cycles affect short- and long-term expectations 
+□	explain the relationship of inflation to the business cycle and the implications of inflation for cash, bonds, equity, and real estate returns 
+□	discuss the effects of monetary and fiscal policy on business cycles
+□	interpret the shape of the yield curve as an economic predictor and discuss the relationship between the yield curve and fiscal and monetary policy
+□	identify and interpret macroeconomic, interest rate, and exchange rate linkages between economies
+Capital Market Expectations, Part 2: Forecasting Asset Class Returns
+The candidate should be able to:□	discuss approaches to setting expectations for fixed-income returns
+□	discuss risks faced by investors in emerging market fixed-income securities 
+and the country risk analysis techniques used to evaluate emerging market economies
+© CFA Institute. For candidate use only. Not for distribution. Economics 2
+□	discuss approaches to setting expectations for equity investment market returns
+□	discuss risks faced by investors in emerging market equity securities
+□	explain how economic and competitive factors can affect expectations for real 
+estate investment markets and sector returns
+□	discuss major approaches to forecasting exchange rates
+□	discuss methods of forecasting volatility
+□	recommend and justify changes in the component weights of a global investment portfolio based on trends and expected changes in macroeconomic factors
+Currency Management: An Introduction
+The candidate should be able to:□	analyze the effects of currency movements on portfolio risk and return
+□	discuss strategic choices in currency management
+□	formulate an appropriate currency management program given financial market 
+conditions and portfolio objectives and constraints
+□	compare active currency trading strategies based on economic fundamentals, technical analysis, carry-trade, and volatility trading
+□	describe how changes in factors underlying active trading strategies affect tactical trading decisions
+□	describe how forward contracts and FX (foreign exchange) swaps are used to adjust hedge ratios
+□	describe trading strategies used to reduce hedging costs and modify the risk–return characteristics of a foreign-currency portfolio
+□	describe the use of cross-hedges, macro-hedges, and minimum-variance-hedge ratios in portfolios exposed to multiple foreign currencies
+□	discuss challenges for managing emerging market currency exposures
+□	describe the three basic forms of performance-based fees
+□	analyze and interpret a sample performance-based fee schedule
+© CFA Institute. For candidate use only. Not for distribution.2024 Level III Topic Outlines
+Portfolio Management
+LEARNING OUTCOMES
+Overview of Asset Allocation
+The candidate should be able to:□	describe elements of effective investment governance and investment 
+governance considerations in asset allocation
+□	formulate an economic balance sheet for a client and interpret its implications for asset allocation
+□	compare the investment objectives of asset-only, liability-relative, and goals-based asset allocation approaches
+□	contrast concepts of risk relevant to asset-only, liability-relative, and goals-based asset allocation approaches
+□	explain how asset classes are used to represent exposures to systematic risk and discuss criteria for asset class specification
+□	explain the use of risk factors in asset allocation and their relation to traditional asset class–based approaches
+□	recommend and justify an asset allocation based on an investor’s objectives and constraints
+□	describe the use of the global market portfolio as a baseline portfolio in asset allocation
+□	discuss strategic implementation choices in asset allocation, including passive/active choices and vehicles for implementing passive and active mandates
+□	discuss strategic considerations in rebalancing asset allocations
+© CFA Institute. For candidate use only. Not for distribution. P ortfolio Management 2
+Principles of Asset Allocation
+The candidate should be able to:□	describe and evaluate the use of mean–variance optimization in asset allocation
+□	recommend and justify an asset allocation using mean–variance optimization
+□	interpret and evaluate an asset allocation in relation to an investor’s economic 
+balance sheet
+□	recommend and justify an asset allocation based on the global market portfolio
+□	discuss the use of Monte Carlo simulation and scenario analysis to evaluate the robustness of an asset allocation
+□	discuss asset class liquidity considerations in asset allocation
+□	explain absolute and relative risk budgets and their use in determining and implementing an asset allocation
+□	describe how client needs and preferences regarding investment risks can be incorporated into asset allocation
+□	describe the use of investment factors in constructing and analyzing an asset allocation
+□	describe and evaluate characteristics of liabilities that are relevant to asset allocation
+□	discuss approaches to liability-relative asset allocation
+□	recommend and justify a liability-relative asset allocation
+□	recommend and justify an asset allocation using a goals-based approach
+□	describe and evaluate heuristic and other approaches to asset allocation
+□	discuss factors affecting rebalancing policy
+Asset Allocation with Real-World Constraints
+The candidate should be able to:□	discuss asset size, liquidity needs, time horizon, and regulatory or other 
+considerations as constraints on asset allocation
+□	discuss tax considerations in asset allocation and rebalancing
+□	recommend and justify revisions to an asset allocation given change(s) in investment objectives and/or constraints
+□	discuss the use of short-term shifts in asset allocation
+□	identify behavioral biases that arise in asset allocation and recommend methods to overcome them
+Overview of Private Wealth Management
+The candidate should be able to:□	contrast private client and institutional client investment concerns
+□	discuss information needed in advising private clients
+□	identify tax considerations affecting a private client’s investments
+□	identify and formulate client goals based on client information
+□	evaluate a private client’s risk tolerance
+□	describe technical and soft skills needed in advising private clients
+□	evaluate capital sufficiency in relation to client goals
+□	discuss the principles of retirement planning
+□	discuss the parts of an investment policy statement (IPS) for a private client
+□	prepare the investment objectives section of an IPS for a private client
+□	evaluate and recommend improvements to an IPS for a private client
+□	recommend and justify portfolio allocations and investments for a private client
+□	describe effective practices in portfolio reporting and review
+□	evaluate the success of an investment program for a private client
+□	discuss ethical and compliance considerations in advising private clients
+© CFA Institute. For candidate use only. Not for distribution.3 Portfolio Management  
+□	discuss how levels of service and range of solutions are related to different 
+private clients
+Topics in Private Wealth Management
+The candidate should be able to:□	compare taxation of income, wealth, and wealth transfers
+□	describe global considerations of jurisdiction that are relevant to taxation
+□	discuss and analyze the tax efficiency of investments
+□	analyze the impact of taxes on capital accumulation and decumulation in 
+taxable, tax-exempt, and tax-deferred accounts
+□	explain portfolio tax management strategies and their application
+□	discuss risk and tax objectives in managing concentrated single-asset positions
+□	describe strategies for managing concentrated positions in public equities
+□	describe strategies for managing concentrated positions in privately owned businesses and real estate
+□	discuss objectives—tax and non-tax—in planning the transfer of wealth
+□	discuss strategies for achieving estate, bequest, and lifetime gift objectives in common law and civil law regimes
+□	describe considerations related to managing wealth across multiple generations
+Risk Management for Individuals
+The candidate should be able to:□	compare the characteristics of human capital and financial capital as 
+components of an individual’s total wealth
+□	discuss the relationships among human capital, financial capital, and economic net worth
+□	describe an economic (holistic) balance sheet
+□	discuss risks (earnings, premature death, longevity, property, liability, and health risks) in relation to human and financial capital
+□	describe types of insurance relevant to personal financial planning
+□	describe the basic elements of a life insurance policy and how insurers price a life insurance policy
+□	discuss the use of annuities in personal financial planning
+□	discuss the relative advantages and disadvantages of fixed and variable annuities
+□	discuss how asset allocation policy may be influenced by the risk characteristics of human capital
+□	recommend and justify appropriate strategies for asset allocation and risk reduction when given an investor profile of key inputs
+Portfolio Management for Institutional Investors
+The candidate should be able to:□	discuss common characteristics of institutional investors as a group
+□	discuss investment policy of institutional investors
+□	discuss the stakeholders in the portfolio, the liabilities, the investment time 
+horizons, and the liquidity needs of different types of institutional investors
+□	describe the focus of legal, regulatory, and tax constraints affecting different types of institutional investors
+□	evaluate risk considerations of private defined benefit (DB) pension plans in relation to 1) plan funded status, 2) sponsor financial strength, 3) interactions between the sponsor’s business and the fund’s investments, 4) plan design, and 5) workforce characteristics
+© CFA Institute. For candidate use only. Not for distribution. P ortfolio Management 4
+□	evaluate the investment policy statement of an institutional investor
+□	evaluate the investment portfolio of a private DB plan, sovereign wealth fund, 
+university endowment, and private foundation
+□	describe considerations affecting the balance sheet management of banks and insurers
+Trade Strategy and Execution
+The candidate should be able to:□	discuss motivations to trade and how they relate to trading strategy
+□	discuss inputs to the selection of a trading strategy
+□	compare benchmarks for trade execution
+□	recommend and justify a trading strategy (given relevant facts)
+□	describe factors that typically determine the selection of a trading algorithm 
+class
+□	contrast key characteristics of the following markets in relation to trade implementation: equity, fixed income, options and futures, OTC derivatives, and spot currency
+□	explain how trade costs are measured and determine the cost of a trade
+□	evaluate the execution of a trade
+□	evaluate a firm’s trading procedures, including processes, disclosures, and record keeping with respect to good governance
+Portfolio Performance Evaluation
+The candidate should be able to:□	explain the following components of portfolio evaluation and their 
+interrelationships: performance measurement, performance attribution, and performance appraisal
+□	describe attributes of an effective attribution process
+□	contrast return attribution and risk attribution; contrast macro and micro return attribution
+□	describe returns-based, holdings-based, and transactions-based performance attribution, including advantages and disadvantages of each
+□	interpret the sources of portfolio returns using a specified attribution approach
+□	interpret the output from fixed-income attribution analyses
+□	discuss considerations in selecting a risk attribution approach
+□	identify and interpret investment results attributable to the asset owner versus those attributable to the investment manager
+□	discuss uses of liability-based benchmarks
+□	describe types of asset-based benchmarks
+□	discuss tests of benchmark quality
+□	describe the impact of benchmark misspecification on attribution and appraisal analysis
+□	describe problems that arise in benchmarking alternative investments
+□	calculate and interpret the Sortino ratio, the appraisal ratio, upside/downside capture ratios, maximum drawdown, and drawdown duration
+□	describe limitations of appraisal measures and related metrics
+□	evaluate the skill of an investment manager
+© CFA Institute. For candidate use only. Not for distribution.5 Portfolio Management  
+Investment Manager Selection
+The candidate should be able to:□	describe the components of a manager selection process, including due diligence
+□	contrast Type I and Type II errors in manager hiring and continuation decisions
+□	describe uses of returns-based and holdings-based style analysis in investment 
+manager selection
+□	describe uses of the upside capture ratio, downside capture ratio, maximum drawdown, drawdown duration, and up/down capture in evaluating managers
+□	evaluate a manager’s investment philosophy and investment decision-making process
+□	evaluate the costs and benefits of pooled investment vehicles and separate accounts
+□	compare types of investment manager contracts, including their major provisions and advantages and disadvantages
+□	describe the three basic forms of performance-based fees
+□	analyze and interpret a sample performance-based fee schedule
+Case Study in Portfolio Management: Institutional
+The candidate should be able to:□	discuss tools for managing portfolio liquidity risk
+□	discuss capture of the illiquidity premium as a long-term investment strategy
+□	analyze asset allocation and portfolio construction in relation to liquidity needs 
+and risk and return requirements and recommend actions to address identified needs
+□	demonstrate the application of the Code of Ethics and Standards of Professional Conduct regarding the actions of individuals involved in manager selection
+□	analyze the costs and benefits of derivatives versus cash market techniques for establishing or modifying asset class or risk exposures
+□	demonstrate the use of derivatives overlays in tactical asset allocation and rebalancing
+□	discuss ESG considerations in managing long-term institutional portfolios
+Case Study in Risk Management: Private Wealth
+The candidate should be able to:□	identify and analyze a family’s risk exposures during the early career stage
+□	recommend and justify methods to manage a family’s risk exposures during the 
+early career stage
+□	identify and analyze a family’s risk exposures during the career development stage
+□	recommend and justify methods to manage a family’s risk exposures during the career development stage
+□	identify and analyze a family’s risk exposures during the peak accumulation stage
+□	recommend and justify methods to manage a family’s risk exposures during the peak accumulation stage
+□	identify and analyze a family’s risk exposures during the early retirement stage
+□	recommend and justify a plan to manage risks associated with an individual’s retirement lifestyle goals
+© CFA Institute. For candidate use only. Not for distribution. P ortfolio Management 6
+Case Study in Risk Management: Institutional
+The candidate should be able to:□	discuss financial risks associated with the portfolio strategy of an institutional 
+investor
+□	discuss environmental and social risks associated with the portfolio strategy of an institutional investor
+□	analyze and evaluate the financial and non-financial risk exposures in the portfolio strategy of an institutional investor
+□	discuss various methods to manage the risks that arise on long-term direct investments of an institutional investor
+□	evaluate strengths and weaknesses of an enterprise risk management system and recommend improvements
+© CFA Institute. For candidate use only. Not for distribution.2024 Level III Topic Outlines
+Derivatives
+LEARNING OUTCOMES
+Options Strategies
+The candidate should be able to:□	demonstrate how an asset’s returns may be replicated by using options
+□	discuss the investment objective(s), structure, payoff, risk(s), value at expiration, 
+profit, maximum profit, maximum loss, and breakeven underlying price at expiration of a covered call position
+□	discuss the investment objective(s), structure, payoff, risk(s), value at expiration, profit, maximum profit, maximum loss, and breakeven underlying price at expiration of a protective put position
+□	compare the delta of covered call and protective put positions with the position of being long an asset and short a forward on the underlying asset
+□	compare the effect of buying a call on a short underlying position with the effect of selling a put on a short underlying position
+□	discuss the investment objective(s), structure, payoffs, risk(s), value at expiration, profit, maximum profit, maximum loss, and breakeven underlying price at expiration of the following option strategies: bull spread, bear spread, straddle, and collar
+□	describe uses of calendar spreads
+□	discuss volatility skew and smile
+□	identify and evaluate appropriate option strategies consistent with given investment objectives
+□	demonstrate the use of options to achieve targeted equity risk exposures
+© CFA Institute. For candidate use only. Not for distribution. Derivatives 2
+Swaps, Forwards, and Futures Strategies
+The candidate should be able to:□	demonstrate how interest rate swaps, forwards, and futures can be used to 
+modify a portfolio’s risk and return
+□	demonstrate how currency swaps, forwards, and futures can be used to modify a portfolio’s risk and return
+□	demonstrate how equity swaps, forwards, and futures can be used to modify a portfolio’s risk and return
+□	demonstrate the use of volatility derivatives and variance swaps
+□	demonstrate the use of derivatives to achieve targeted equity and interest rate risk exposures
+□	demonstrate the use of derivatives in asset allocation, rebalancing, and inferring market expectations
+© CFA Institute. For candidate use only. Not for distribution.2024 Level III Topic Outlines
+Fixed Income
+LEARNING OUTCOMES
+Overview of Fixed-Income Portfolio Management
+The candidate should be able to:□	discuss roles of fixed-income securities in portfolios and how fixed-income 
+mandates may be classified
+□	describe fixed-income portfolio measures of risk and return as well as correlation characteristics
+□	describe bond market liquidity, including the differences among market sub-sectors, and discuss the effect of liquidity on fixed-income portfolio management
+□	describe and interpret a model for fixed-income returns
+□	discuss the use of leverage, alternative methods for leveraging, and risks that leverage creates in fixed-income portfolios
+□	discuss differences in managing fixed-income portfolios for taxable and tax-exempt investors
+ Liability-Driven and Index-Based Strategies
+The candidate should be able to:□	describe liability-driven investing
+□	evaluate strategies for managing a single liability
+□	compare strategies for a single liability and for multiple liabilities, including 
+alternative means of implementation
+□	describe construction, benefits, limitations, and risk–return characteristics of a laddered bond portfolio
+© CFA Institute. For candidate use only. Not for distribution. F ixed Income 2
+□	evaluate liability-based strategies under various interest rate scenarios and select 
+a strategy to achieve a portfolio’s objectives
+□	explain risks associated with managing a portfolio against a liability structure
+□	discuss bond indexes and the challenges of managing a fixed-income portfolio to mimic the characteristics of a bond index
+□	compare alternative methods for establishing bond market exposure passively
+□	discuss criteria for selecting a benchmark and justify the selection of a benchmark
+ Yield Curve Strategies
+The candidate should be able to:□	describe the factors affecting fixed-income portfolio returns due to a change in 
+benchmark yields
+□	formulate a portfolio positioning strategy given forward interest rates and an interest rate view that coincides with the market view
+□	formulate a portfolio positioning strategy given forward interest rates and an interest rate view that diverges from the market view in terms of rate level, slope, and shape
+□	formulate a portfolio positioning strategy based upon expected changes in interest rate volatility
+□	evaluate a portfolio’s sensitivity using key rate durations of the portfolio and its benchmark
+□	discuss yield curve strategies across currencies
+□	evaluate the expected return and risks of a yield curve strategy
+Fixed-Income Active Management: Credit Strategies
+The candidate should be able to:□	describe risk considerations for spread-based fixed-income portfolios
+□	discuss the advantages and disadvantages of credit spread measures for 
+spread-based fixed-income portfolios, and explain why option-adjusted spread is considered the most appropriate measure
+□	discuss bottom-up approaches to credit strategies
+□	discuss top-down approaches to credit strategies
+□	discuss liquidity risk in credit markets and how liquidity risk can be managed in a credit portfolio
+□	describe how to assess and manage tail risk in credit portfolios
+□	discuss the use of credit default swap strategies in active fixed-income portfolio management
+□	discuss various portfolio positioning strategies that managers can use to implement a specific credit spread view
+□	discuss considerations in constructing and managing portfolios across international credit markets
+□	describe the use of structured financial instruments as an alternative to corporate bonds in credit portfolios
+□	describe key inputs, outputs, and considerations in using analytical tools to manage fixed-income portfolios
+© CFA Institute. For candidate use only. Not for distribution.2024 Level III Topic Outlines
+Equity Investments
+LEARNING OUTCOMES
+Overview of Equity Portfolio Management
+The candidate should be able to:□	describe the roles of equities in the overall portfolio
+□	describe how an equity manager’s investment universe can be segmented
+□	describe the types of income and costs associated with owning and managing an 
+equity portfolio and their potential effects on portfolio performance
+□	describe the potential benefits of shareholder engagement and the role an equity manager might play in shareholder engagement
+□	describe rationales for equity investment across the passive–active spectrum
+Passive Equity Investing
+The candidate should be able to:□	discuss considerations in choosing a benchmark for a passively managed equity 
+portfolio
+□	compare passive factor-based strategies to market-capitalization-weighted indexing
+□	compare different approaches to passive equity investing
+□	compare the full replication, stratified sampling, and optimization approaches for the construction of passively managed equity portfolios
+□	discuss potential causes of tracking error and methods to control tracking error for passively managed equity portfolios
+□	explain sources of return and risk to a passively managed equity portfolio
+© CFA Institute. For candidate use only. Not for distribution. E quity Investments 2
+Active Equity Investing: Strategies
+The candidate should be able to:□	compare fundamental and quantitative approaches to active management
+□	analyze bottom-up active strategies, including their rationale and associated 
+processes
+□	analyze top-down active strategies, including their rationale and associated processes
+□	analyze factor-based active strategies, including their rationale and associated processes
+□	analyze activist strategies, including their rationale and associated processes
+□	describe active strategies based on statistical arbitrage and market microstructure
+□	describe how fundamental active investment strategies are created
+□	describe how quantitative active investment strategies are created
+□	discuss equity investment style classifications
+Active Equity Investing: Portfolio Construction
+The candidate should be able to:□	describe elements of a manager’s investment philosophy that influence the 
+portfolio construction process
+□	discuss approaches for constructing actively managed equity portfolios
+□	distinguish between Active Share and active risk and discuss how each measure relates to a manager’s investment strategy
+□	discuss the application of risk budgeting concepts in portfolio construction
+□	discuss risk measures that are incorporated in equity portfolio construction and describe how limits set on these measures affect portfolio construction
+□	discuss how assets under management, position size, market liquidity, and portfolio turnover affect equity portfolio construction decisions
+□	evaluate the efficiency of a portfolio structure given its investment mandate
+□	discuss the long-only, long extension, long/short, and equitized market-neutral approaches to equity portfolio construction, including their risks, costs, and effects on potential alphas
+© CFA Institute. For candidate use only. Not for distribution.2024 Level III Topic Outlines
+Alternative Investments
+LEARNING OUTCOMES
+Hedge Fund Strategies
+The candidate should be able to:□	discuss how hedge fund strategies may be classified
+□	discuss investment characteristics, strategy implementation, and role in a 
+portfolio of equity-related hedge fund strategies
+□	discuss investment characteristics, strategy implementation, and role in a portfolio of event-driven hedge fund strategies
+□	discuss investment characteristics, strategy implementation, and role in a portfolio of relative value hedge fund strategies
+□	discuss investment characteristics, strategy implementation, and role in a portfolio of opportunistic hedge fund strategies
+□	discuss investment characteristics, strategy implementation, and role in a portfolio of specialist hedge fund strategies
+□	discuss investment characteristics, strategy implementation, and role in a portfolio of multi-manager hedge fund strategies
+□	evaluate the impact of an allocation to a hedge fund strategy in a traditional investment portfolio
+Asset Allocation to Alternative Investments
+The candidate should be able to:□	explain the roles that alternative investments play in multi-asset portfolios
+□	compare alternative investments and bonds as risk mitigators in relation to a 
+long equity position
+© CFA Institute. For candidate use only. Not for distribution. Alt ernative Investments 2
+□	compare traditional and risk-based approaches to defining the investment 
+opportunity set, including alternative investments
+□	discuss investment considerations that are important in allocating to different types of alternative investments
+□	discuss suitability considerations in allocating to alternative investments
+□	discuss approaches to asset allocation to alternative investments
+□	discuss the importance of liquidity planning in allocating to alternative investments
+□	discuss considerations in monitoring alternative investment programs
+© CFA Institute. For candidate use only. Not for distribution.Ethical and Professional 
+Standards
+LEARNING OUTCOMES
+Code of Ethics and Standards of Professional Conduct
+The candidate should be able to:□	describe the structure of the CFA Institute Professional Conduct Program and 
+the disciplinary review process for the enforcement of the CFA Institute Code of Ethics and Standards of Professional Conduct
+□	explain the ethical responsibilities required by the Code and Standards, including the sub-sections of each standard
+Guidance for Standards I–VII
+The candidate should be able to:□	demonstrate a thorough knowledge of the CFA Institute Code of Ethics and 
+Standards of Professional Conduct by interpreting the Code and Standards in various situations involving issues of professional integrity
+□	recommend practices and procedures designed to prevent violations of the Code and Standards
+Application of the Code and Standards: Level III
+The candidate should be able to:□	evaluate practices, policies, and conduct relative to the CFA Institute Code of 
+Ethics and Standards of Professional Conduct
+□	explain how the practices, policies, or conduct does or does not violate the CFA Institute Code of Ethics and Standards of Professional Conduct
+© CFA Institute. For candidate use only. Not for distribution. Ethic al and Professional Standards 2
+Asset Manager Code of Professional Conduct
+The candidate should be able to:□	explain the purpose of the Asset Manager Code and the benefits that may accrue 
+to a firm that adopts the Code
+□	explain the ethical and professional responsibilities required by the six General Principles of Conduct of the Asset Manager Code
+□	determine whether an asset manager’s practices and procedures are consistent with the Asset Manager Code
+□	recommend practices and procedures designed to prevent violations of the Asset Manager Code
+Overview of the Global Investment Performance Standards
+The candidate should be able to:□	discuss the objectives and scope of the GIPS standards and their benefits to 
+prospective clients and investors, as well as investment managers
+□	discuss requirements of the GIPS standards with respect to return calculation methodologies, including the treatment of external cash flows, cash and cash equivalents, and expenses and fees
+□	explain the recommended valuation hierarchy of the GIPS standards
+□	explain requirements of the GIPS standards with respect to composite return calculations, including methods for asset-weighting portfolio returns
+□	explain the meaning of “discretionary” in the context of composite construction and, given a description of the relevant facts, determine whether a portfolio is likely to be considered discretionary
+□	explain the role of investment mandates, objectives, or strategies in the construction of composites
+□	explain requirements of the GIPS standards with respect to composite construction, including switching portfolios among composites, the timing of the inclusion of new portfolios in composites, and the timing of the exclusion of terminated portfolios from composites
+□	explain requirements of the GIPS standards with respect to presentation and reporting
+□	explain the conditions under which the performance of a past firm or affiliation may be linked to or used to represent the historical performance of a new or acquiring firm
+□	discuss the purpose, scope, and process of verification
+© CFA Institute. For candidate use only. Not for distribution.
